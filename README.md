@@ -1,3 +1,25 @@
+# 리액트의 다양한 상태관리(클라이언트 & 서버(Tanstack-query)) 패키지를 비교해볼수 있는 앱 입니다
+
+### 1. Redux
+
+### 2. Recoil
+
+### 3. Zustand
+
+### 4. Jotai
+
+### 5. Tanstack-query(React-query)
+
+#### - Flux : 저장소(store)/액션함수(action)/리듀서 등을 통해서 상태를 업데이트 하는 방식. Redux, Zustand
+
+#### - Atomic : React에서 사용되는 state와 비슷하게 리액트 트리 안에서 상태를 저장하고 관리하는 방식. Recoil, Jotai
+
+---
+
+## 비동기 요청 : Redux-thunk, Redux-Saga, Selector(Recoil), Jotai
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
